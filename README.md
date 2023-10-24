@@ -9,9 +9,9 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- A passionate Machine Learning Engineer with 2 Years of experience.
-- Currently working at [Reflections Info Systems](https://reflectionsglobal.com/) .
-- Currently learning about Cloud Technologies and Prompt Engineering.
+- Machine Learning Engineer with 3 Years of experience.
+- Working at [Reflections Info Systems](https://reflectionsglobal.com/) .
+- Currently learning about Cloud Technologies and Gen AI.
 - Love PC Games and Football.
 
 <br>
