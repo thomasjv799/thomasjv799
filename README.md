@@ -1,13 +1,13 @@
 
 <h1 align="center"><b>Hi , I'm  Thomas J Varghese </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+
+## <picture><img src = ![](https://raw.githubusercontent.com/seebeen/seebeen/master/hello-there.gif)" width = 50px, height=100px></picture> **About me**
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There+!..&hearts;++;Machine+Learning+Engineer,;Computer+Science+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer,;Computer+Science+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://raw.githubusercontent.com/seebeen/seebeen/master/hello-there.gif)" width = 50px></picture> **About me**
-
-
 
 - Machine Learning Engineer with 3 Years of experience.
 - Working at [Reflections Info Systems](https://reflectionsglobal.com/) .
@@ -27,7 +27,6 @@
   
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - **AI/ML**
@@ -40,11 +39,6 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-  
-- **Front-End Development**
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Cloud Hosting**
   
