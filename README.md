@@ -3,15 +3,17 @@
 
 
 
-## <picture><img src = ![](https://raw.githubusercontent.com/seebeen/seebeen/master/hello-there.gif)" width = 50px, height=100px></picture> **About me**
+## <picture>      ![](https://raw.githubusercontent.com/seebeen/seebeen/master/hello-there.gif) </picture> 
+
+**About me**
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer,;Computer+Science+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Generative+AI+Engineer,;Machine+Learning+Engineer,;Computer+Science+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-- Machine Learning Engineer with 3 Years of experience.
-- Working at [Reflections Info Systems](https://reflectionsglobal.com/) .
-- Currently learning about Cloud Technologies and Gen AI.
+- Generative AI / Machine Learning Engineer with 4 Years of experience.
+- Working at [Litmus7 Consultings](https://www.litmus7.com/) .
+- Currently learning about Agentic AI and IaaC.
 - Love PC Games and Football.
 
 <br>
