@@ -71,23 +71,21 @@
 
 -----
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
 
-[![Thomas J's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thomasjv799&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Thomas J's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=thomasjv799&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  <img src="https://streak-stats.demolab.com?user=thomasjv799&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
 </div>
 
-<br>
 
 -----
 <br>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/karun710/karun710/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
