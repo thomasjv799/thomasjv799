@@ -35,12 +35,13 @@ My work and interests span **machine learning, deep learning, fine-tuning, self-
 
 | Area | Technologies & Focus |
 | --- | --- |
-| Languages & scripting | Python, C, Bash |
-| Machine learning & deep learning | TensorFlow, Keras, scikit-learn |
-| Generative AI | Fine-tuning, model serving, agentic AI |
-| Data analysis & visualization | NumPy, pandas, Plotly |
-| Cloud & infrastructure | AWS, Microsoft Azure, self-hosted serving, IaC learning |
-| Databases | SQLite, Neo4j |
+| Languages & scripting | Python, TypeScript, Bash |
+| Machine learning & deep learning | PyTorch, TensorFlow, Keras, scikit-learn |
+| Generative AI | Retrieval-Augmented Generation (RAG), fine-tuning, model serving |
+| Agent frameworks | LangGraph, AutoGen, Strands Agents |
+| Data analysis & visualization | NumPy, pandas, Dask, Plotly |
+| Cloud & infrastructure | AWS, Microsoft Azure, Terraform, self-hosted serving |
+| Databases | PostgreSQL, SQLite, Neo4j |
 | Software development & automation | Git, GitHub, Jenkins, Postman |
 | Editors & other tools | Visual Studio Code, Vim, Markdown, Raspberry Pi, GitHub Pages |
 
